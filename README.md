@@ -1,4 +1,4 @@
-# Malicious Domain Detection using image visualization and deep learning
+# Malicious Domain Detection using Image Visualization and Deep Learning
 
 ## Overview
 
