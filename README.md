@@ -1,4 +1,4 @@
-# Malicious DNS Domain Detection via Image-Based Deep Learning
+# Malicious Domain Detection using image visualization and deep learning
 
 ## Overview
 
